@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rufus173
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like plants
 
 <!---
 rufus173/rufus173 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
